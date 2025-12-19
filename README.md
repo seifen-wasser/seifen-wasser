@@ -2,13 +2,6 @@
 
 ###
 
-
-<div align="center">
-  <a href="https://discord.com/users/962135062638387242">
-    <img src="https://lanyard.cnrad.dev/api/962135062638387242?theme=dark&hideStatus=true" alt="Discord Presence" style="display: block; margin: auto;">
-  </a>
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vxcnnn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
